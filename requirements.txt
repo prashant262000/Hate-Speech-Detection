@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+opencv-python
+matplotlib
+tensorflow
+sklearn
+nltk
+pytesseract
+Pillow
